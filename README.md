@@ -2,6 +2,13 @@
 
 **`Game Developer, Content Creator, Security Engineer`**
 
+# What do I do?
+
+- Game Dev
+- Game Protector
+- Make Mods
+- Content Creation
+
 <!--
 **s4geyt/s4geyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
