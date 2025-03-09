@@ -19,6 +19,12 @@
       <a href="https://github.com/s4geyt?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/s4geyt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+# Coding Languages 
+- Python <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+- Javascript <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+- HTML <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+- C# <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/csharp-line.svg" />
 <!--
 **s4geyt/s4geyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
