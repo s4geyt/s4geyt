@@ -26,6 +26,17 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30px" style="float: left; padding-right: 10px;" />
 
+# Support Me
+
+- https://www.youtube.com/@IM_S4GE
+- discord.gg/s4ge
+- https://buymeacoffee.com/s4geyt
+
+# Donate
+
+- https://buymeacoffee.com/s4geyt
+
+
 <!--
 **s4geyt/s4geyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
