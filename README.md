@@ -1,4 +1,6 @@
-## Hi there 👋
+# S4ge
+
+**`Game Developer, Content Creator, Security Engineer`**
 
 <!--
 **s4geyt/s4geyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
